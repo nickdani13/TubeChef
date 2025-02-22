@@ -1,0 +1,5 @@
+composio-llamaindex
+llama-index-readers-youtube-transcript
+python-dotenv
+composio-gemini 
+llama-index-llms-gemini
